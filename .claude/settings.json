@@ -1,3 +1,4 @@
 {
-  "autoMemoryDirectory": "~/Desktop/obsidian/vault/memory"
+  "autoMemoryDirectory": "~/Desktop/obsidian/vault/memory",
+  "respectGitignore": false
 }
